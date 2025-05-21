@@ -97,6 +97,6 @@ streamlit run app.py
 
 ## Support / 技术支持  
 
-Contact 问题反馈: <https://github.com/Maicarons/streamlit-template/issues>  
+Contact 问题反馈: <https://github.com/Maicarons/PMEPS/issues>  
 
 AGPL-3.0  License

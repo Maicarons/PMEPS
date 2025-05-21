@@ -25,8 +25,8 @@ conn = sqlite3.connect("questions_decrypted.db", timeout=10000)
 
 # 页面配置
 st.set_page_config(page_title='入党题库练习系统', layout='centered',
-                   menu_items={'Get Help': 'https://github.com/Maicarons/streamlit-template/issues',
-                               'Report a bug': "https://github.com/Maicarons/streamlit-template/issues",
+                   menu_items={'Get Help': 'https://github.com/Maicarons/PMEPS',
+                               'Report a bug': "https://github.com/Maicarons/PMEPS/issues",
                                'About': "Maicarons"})
 # 侧边栏导航
 page = st.sidebar.selectbox('选择模式', ['主页', '筛选模式', '难题模式', '搜索模式', '练习模式'])
